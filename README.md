@@ -1,4 +1,4 @@
-# mixed-project 2
+# Analysis of the behavior of mobile application users
 
 Стартап продаёт продукты питания.
 
